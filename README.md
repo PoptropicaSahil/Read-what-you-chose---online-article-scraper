@@ -5,3 +5,5 @@ websites and allows users to chose if they want to read them
 
 
 _I created this for my sister, who is a product manager and needs to read a ton of articles!_
+
+Wrote an article on Medium for the same - [Link!](https://medium.com/@ed19b048/read-what-you-choose-how-i-made-a-custom-article-selector-in-python-79b484b93499)
